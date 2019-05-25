@@ -5,9 +5,9 @@ Emoji表情
 
 ## 个人常用
 
-|  Syntax   | Preview |    Syntax    |  Preview   |           Syntax           |         Preview          |
-|:---------:|:-------:|:------------:|:----------:|:--------------------------:|:------------------------:|
-| `:link:`  | :link:  | `:computer:` | :computer: | `:heavy_exclamation_mark:` | :heavy_exclamation_mark: |
+|  Syntax   | Preview |    Syntax    |  Preview   |       Syntax       |     Preview      |           Syntax           |         Preview          |
+|:---------:|:-------:|:------------:|:----------:|:------------------:|:----------------:|:--------------------------:|:------------------------:|
+| `:link:`  | :link:  | `:computer:` | :computer: | `:speech_balloon:` | :speech_balloon: | `:heavy_exclamation_mark:` | :heavy_exclamation_mark: |
 | `:smirk:` | :smirk: |
 |  `:+1:`   |  :+1:   |
 
