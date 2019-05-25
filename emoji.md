@@ -3,6 +3,14 @@ Emoji表情
 将对应emoji表情的符号码复制后输入你的markdown文本即可显示emoji表情。
 如`:blush:`，显示为:blush:
 
+## 个人常用
+
+|  Syntax   | Preview |    Syntax    |  Preview   |           Syntax           |         Preview          |
+|:---------:|:-------:|:------------:|:----------:|:--------------------------:|:------------------------:|
+| `:link:`  | :link:  | `:computer:` | :computer: | `:heavy_exclamation_mark:` | :heavy_exclamation_mark: |
+| `:smirk:` | :smirk: |
+
+
 ## 人物
 
 |syntax|preview|syntax|preview|syntax|preview|
