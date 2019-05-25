@@ -5,10 +5,10 @@ Emoji表情
 
 ## 个人常用
 
-|  Syntax   | Preview |    Syntax    |  Preview   |       Syntax       |     Preview      |
-|:---------:|:-------:|:------------:|:----------:|:------------------:|:----------------:|
-| `:link:`  | :link:  | `:computer:` | :computer: | `:speech_balloon:` | :speech_balloon: |
-| `:smirk:` | :smirk: |              |            |  `:exclamation:`   |  :exclamation:   |
+|  Syntax   | Preview |     Syntax     |   Preview    |       Syntax       |     Preview      |
+|:---------:|:-------:|:--------------:|:------------:|:------------------:|:----------------:|
+| `:link:`  | :link:  |  `:computer:`  |  :computer:  | `:speech_balloon:` | :speech_balloon: |
+| `:smirk:` | :smirk: | `:point_down:` | :point_down: |  `:exclamation:`   |  :exclamation:   |
 |  `:+1:`   |  :+1:   |
 
 ## 人物
