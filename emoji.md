@@ -9,7 +9,7 @@ Emoji表情
 |:---------:|:-------:|:------------:|:----------:|:--------------------------:|:------------------------:|
 | `:link:`  | :link:  | `:computer:` | :computer: | `:heavy_exclamation_mark:` | :heavy_exclamation_mark: |
 | `:smirk:` | :smirk: |
-
+|  `:+1:`   |  :+1:   |
 
 ## 人物
 
