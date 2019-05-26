@@ -9,7 +9,8 @@ Emoji表情
 |:---------:|:-------:|:--------------:|:------------:|:------------------:|:----------------:|
 | `:link:`  | :link:  |  `:computer:`  |  :computer:  | `:speech_balloon:` | :speech_balloon: |
 | `:smirk:` | :smirk: | `:point_down:` | :point_down: |  `:exclamation:`   |  :exclamation:   |
-|  `:+1:`   |  :+1:   |
+|  `:+1:`   |  :+1:   |   `:muscle:`   |   :muscle:   |
+
 
 ## 人物
 
