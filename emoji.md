@@ -10,7 +10,7 @@ Emoji表情
 | `:link:`  | :link:  |  `:computer:`  |  :computer:  | `:speech_balloon:` | :speech_balloon: |
 | `:smirk:` | :smirk: | `:point_down:` | :point_down: |  `:exclamation:`   |  :exclamation:   |
 |  `:+1:`   |  :+1:   |   `:muscle:`   |   :muscle:   |`:open_file_folder:`|:open_file_folder:|
-
+|||||`:page_facing_up:`|:page_facing_up:|
 
 ## 人物
 
